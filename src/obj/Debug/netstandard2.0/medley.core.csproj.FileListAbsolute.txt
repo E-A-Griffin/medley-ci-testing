@@ -1,0 +1,10 @@
+/home/emma/programming/Clojure/medley/src/bin/Debug/netstandard2.0/medley.core.deps.json
+/home/emma/programming/Clojure/medley/src/bin/Debug/netstandard2.0/medley.core.dll
+/home/emma/programming/Clojure/medley/src/bin/Debug/netstandard2.0/medley.core.pdb
+/home/emma/programming/Clojure/medley/src/obj/Debug/netstandard2.0/medley.core.csproj.AssemblyReference.cache
+/home/emma/programming/Clojure/medley/src/obj/Debug/netstandard2.0/medley.core.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/programming/Clojure/medley/src/obj/Debug/netstandard2.0/medley.core.AssemblyInfoInputs.cache
+/home/emma/programming/Clojure/medley/src/obj/Debug/netstandard2.0/medley.core.AssemblyInfo.cs
+/home/emma/programming/Clojure/medley/src/obj/Debug/netstandard2.0/medley.core.csproj.CoreCompileInputs.cache
+/home/emma/programming/Clojure/medley/src/obj/Debug/netstandard2.0/medley.core.dll
+/home/emma/programming/Clojure/medley/src/obj/Debug/netstandard2.0/medley.core.pdb

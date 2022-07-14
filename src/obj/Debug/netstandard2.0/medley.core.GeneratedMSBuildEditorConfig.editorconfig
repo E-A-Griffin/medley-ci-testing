@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = medley
+build_property.ProjectDir = /home/emma/programming/Clojure/medley/src/

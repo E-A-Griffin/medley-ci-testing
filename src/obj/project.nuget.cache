@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mL2++EZmt0o8r2RUtBikR7EpmGQNSHX+3G3dIfK7ftkl6KsRv7lA7FWZ75QB99q4UZYg/qGB1FiWXpS1b1jtOQ==",
+  "success": true,
+  "projectFilePath": "/home/emma/programming/Clojure/medley/src/medley.core.csproj",
+  "expectedPackageFiles": [
+    "/home/emma/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/emma/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

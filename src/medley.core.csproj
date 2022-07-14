@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <OutputType>Library</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Title>medley</Title>
+    <Product>medley.core</Product>
+    <AssemblyTitle>medley.core</AssemblyTitle>
+    <Description>Port of medley to ClojureCLR</Description>
+    <Copyright>Copyright © Rich Hickey 2022</Copyright>
+    <Company>ClojureCLR contributors</Company>
+    <Version>1.4.0</Version>
+  </PropertyGroup>  
+  <PropertyGroup>
+    <RootNamespace>medley</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="medley\core.cljc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
