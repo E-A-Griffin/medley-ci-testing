@@ -37,7 +37,7 @@
         ;; 3. use :clj-dep instead of :clj-exe in :main-cmd and :compile-cmd
         :deps-cmds      [[:wget  :clj-zip :clj-url] ; edit to use :curl instead of :wget
                          [:unzip "../clj" :clj-zip]]
-        :main-cmd      [:clj-exe "Clojure.Main"]
+        :main-cmd      [:clj-exe "Clojure.Main461.exe"]
         :compile-cmd   [:clj-exe "Clojure.Compile.exe"]}
   :doo {:paths {:rhino "lein run -m org.mozilla.javascript.tools.shell.Main"}}
   :aliases
