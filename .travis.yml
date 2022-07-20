@@ -1,8 +1,11 @@
 language: clojure
 
-jobs:
-  include:
-    - mono: latest
+mono:
+  - latest
+
+#jobs:
+#  include:
+#    - mono: latest
 
 # before_install:
 #   # Install mono
